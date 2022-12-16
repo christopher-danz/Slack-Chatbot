@@ -6,7 +6,7 @@
 *before you do so, make sure to use your own Slack channel or ask for permission to add bot functionality in the Slack channel of your choice.*
 
 1. Go to the "Apps" section in your Slack workspace.
-
+![Where to find "Apps" in Slack](./D:\Documents\GitHub_Repositories\Slack Chatbot\apps_slack.png)
 ![Where to find "Apps" in Slack](D:\Documents\GitHub_Repositories\Slack Chatbot\apps_slack.png "Where to find Apps in Slack")
 
 2. Search for the "Bots" app and add it to your workspace.
